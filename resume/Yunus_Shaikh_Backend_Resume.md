@@ -1,4 +1,4 @@
-# YUNUS SHAIKH
+# MOHAMMED YUNUS SHAIKH
 
 **Software Engineer | Backend Development & DevOps**
 
